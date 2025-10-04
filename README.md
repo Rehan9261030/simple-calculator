@@ -1,2 +1,2 @@
 # simple-calculator
-Class Assignment
+Class Assignment of simple calculator
